@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Studia_Weather_Project/static/css/main.beefac61.chunk.css",
+    "main.js": "/Studia_Weather_Project/static/js/main.4ce8db7d.chunk.js",
+    "main.js.map": "/Studia_Weather_Project/static/js/main.4ce8db7d.chunk.js.map",
+    "runtime-main.js": "/Studia_Weather_Project/static/js/runtime-main.9c145646.js",
+    "runtime-main.js.map": "/Studia_Weather_Project/static/js/runtime-main.9c145646.js.map",
+    "static/js/2.1da31d48.chunk.js": "/Studia_Weather_Project/static/js/2.1da31d48.chunk.js",
+    "static/js/2.1da31d48.chunk.js.map": "/Studia_Weather_Project/static/js/2.1da31d48.chunk.js.map",
+    "static/js/3.b699f4c2.chunk.js": "/Studia_Weather_Project/static/js/3.b699f4c2.chunk.js",
+    "static/js/3.b699f4c2.chunk.js.map": "/Studia_Weather_Project/static/js/3.b699f4c2.chunk.js.map",
+    "index.html": "/Studia_Weather_Project/index.html",
+    "static/css/main.beefac61.chunk.css.map": "/Studia_Weather_Project/static/css/main.beefac61.chunk.css.map",
+    "static/js/2.1da31d48.chunk.js.LICENSE.txt": "/Studia_Weather_Project/static/js/2.1da31d48.chunk.js.LICENSE.txt",
+    "static/media/sunriseIcon.a2402508.svg": "/Studia_Weather_Project/static/media/sunriseIcon.a2402508.svg",
+    "static/media/sunsetIcon.951cf7b1.svg": "/Studia_Weather_Project/static/media/sunsetIcon.951cf7b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c145646.js",
+    "static/js/2.1da31d48.chunk.js",
+    "static/css/main.beefac61.chunk.css",
+    "static/js/main.4ce8db7d.chunk.js"
+  ]
+}
